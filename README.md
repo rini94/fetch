@@ -17,4 +17,4 @@ Downloads webpages and associated images from the given url and stores it in the
 <img width="1006" alt="fetch metadata" src="https://user-images.githubusercontent.com/18500746/164554055-5cb5f5f6-092d-4dfa-9b67-532445ade737.png">
 
 
-Program can be built using docker. 
+Program can be built using docker and the functionality can be accessed through CLI.
